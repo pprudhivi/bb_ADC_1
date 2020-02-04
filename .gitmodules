@@ -1,0 +1,3 @@
+[submodule "bb_ADC_1_API"]
+	path = bb_ADC_1_API
+	url = https://github.com/pprudhivi/bb_ADC_1_API.git
